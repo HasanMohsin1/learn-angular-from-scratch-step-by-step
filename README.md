@@ -69,6 +69,7 @@ go, but make sure you use it for the right reasons.
 
 
 References
+
 Getz, A. (2021). Overview of Microservice Architecture. www.linkedin.com. 
 https://www.linkedin.com/pulse/overview-microservice-architecture-adam-getz-pmpcsm-aws-cmmi/
 Khazin, E. (n.d.). Transition from Monolith to Microservices: Advantages, Disadvantages & Use 
