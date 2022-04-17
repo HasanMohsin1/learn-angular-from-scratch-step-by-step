@@ -72,7 +72,9 @@ References
 
 Getz, A. (2021). Overview of Microservice Architecture. www.linkedin.com. 
 https://www.linkedin.com/pulse/overview-microservice-architecture-adam-getz-pmpcsm-aws-cmmi/
+
 Khazin, E. (n.d.). Transition from Monolith to Microservices: Advantages, Disadvantages & Use 
 Cases. primetsr.com. https://primetsr.com/insights/advantages-of-microservices/
+
 Richardson, C. (n.d.). Microservice Architecture. Manning. 
 https://microservices.io/patterns/microservices.html
