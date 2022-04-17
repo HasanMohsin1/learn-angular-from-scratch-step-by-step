@@ -8,6 +8,7 @@ CS-470 Final Reflection
 https://www.youtube.com/watch?v=Pc4LAou1ShM
 
 Experiences and Strengths:
+
 • Containers to migrate the web application to the AWS cloud 
 • Build the web application in the cloud by migrating the static website and the database so 
 the application will leverage a serverless environment
@@ -32,6 +33,7 @@ specified paintings roles do now no longer always correspond to today’s proces
 process listings. For another, Work Roles are indexed that contain security tasks.
 
 Planning for Growth:
+
  Microservices architecture is an approach in which a single application is composed of 
 many loosely coupled and independently deployable smaller services. Instead of building a 
 single monolithic application, microservices split an application into discrete sets of smaller, 
